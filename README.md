@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thestarharsh
+- 👋 Hi, I’m Harsh Jain
 - 👀 I’m currently a Software Engineer.
-- 🌱 Always learning JS, TS, React & DSA.
-- 💞️ I’m looking to collaborate on writing and managing efficient code.
+- 🌱 Always learning JS, TS, React, DSA, AI.
+- 💞️ I’m looking to collaborate on generating, writing and managing optimized code.
 - 📫 How to reach me ... 
 - Linkedin: https://www.linkedin.com/in/engharsh
 
